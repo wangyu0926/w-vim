@@ -11,9 +11,9 @@ Who:
 一个diaos PHPer，vim爱好者
 
 What:
-.vim                //插件目录
-.vimrc              //vim配置文件
-genfiletags         //配合lookupfile插件生成tag文件
+.vim是插件目录；
+.vimrc是vim配置文件；
+genfiletags是配合lookupfile插件生成tag文件
 
 How:
 1.安装vim，推荐安装vim7.4;
